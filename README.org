@@ -37,14 +37,17 @@ It is 4 exercises for upper body in total (1. to 4.). For example 2. has three c
   
 - if you can't do the above, then push ups:
   [[https://cdn-0.weighttraining.guide/wp-content/uploads/2017/06/push-up-on-knees-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4]]
+
 ** 3. Bent over row or horizontal pull
 - bent over row (barbell):
   [[https://weighttraining.guide/wp-content/uploads/2016/10/Bent-over-barbell-row.png]]
-- horizontal pull
-  [[https://fitwill.app/api/image/1323?p=1&w=1024&h=576]]
+- horizontal pull:
+  [[https://fitwill.app/api/image/1323]]
   
 ** 4. Shoulder press
 - with barbell:
+
   [[https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/barbell-military-press-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4]]
 - with dumbells:
+
   [[https://s3assets.skimble.com/assets/2636572/image_full.jpg]]
