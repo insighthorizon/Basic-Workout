@@ -10,54 +10,54 @@
 It is 4 exercises in total for lower body (1. up to 4.). Number 1. has two choices. Do only one of them.
 ** 1. Squat (barbell) or Leg press (machine)
 - if they have squat rack with safety bars, do squats:
-  [[https://cdn.shopify.com/s/files/1/0564/2607/0148/files/body-solid-spr1000-power-rack_30b13d6d-123e-47ea-aef3-3c7cd8763d36_600x600.png?v=1684847578]]
+  [[./squat.webp]]
 - otherwise leg press, don't streighten the legs, keep the muscles under load
-  [[https://static.strengthlevel.com/images/exercises/sled-leg-press/sled-leg-press-800.jpg]]
+  [./leg_press.jpg]]
 
-** 2. Leg curls
-[[https://weighttraining.guide/wp-content/uploads/2016/10/lying-leg-curl-resized.png]]
+** 2. Leg curl
+[[./leg_curl.png]]
 
-** 3. Leg extensions
+** 3. Leg extension
 - here it is fine to streighten the legs completely, no loss of tension happens
-  [[https://weighttraining.guide/wp-content/uploads/2016/05/lever-leg-extension-resized.png]]
+  [[./leg_extension.png]]
 
-** 4. Leg raises (we did that)
+** 4. Leg raise (we did that)
 - can be done on the ground
-  [[https://cathe.com/wp-content/uploads/2019/10/shutterstock_363953936.jpg]]
+  [[./leg_raise.jpg]]
 
 
 * Upper body (Upper back, chest, shoulders arms)
 It is 4 exercises for upper body in total (1. to 4.). For example 2. has three choices and you should pick only one.
 ** 1. Pull downs
-[[https://weighttraining.guide/wp-content/uploads/2016/05/wide-grip-lat-pull-down-resized.png]]
+[[./pull_down.png]]
 
-** 2. Chest press or bench press, or push ups
+** 2. Chest press or bench press, or push up
 - chest press:
 
-  [[https://weighttraining.guide/wp-content/uploads/2016/12/machine-chest-press-resized.png]]
+  [[./chest_press1.png]]
   or:
 
-  [[https://training.fit/wp-content/uploads/2020/02/brustpresse-flach.png]]
+  [[./chest_press2.png]]
 - i would do bench press (barbell) only if there is bench with safety bars set into the right height so that you can lie the weight down on it:
 
-  [[https://www.ritfitsports.com/cdn/shop/files/1_53efc365-4188-4c80-b608-0206473f0531.jpg]]
+  [[./bench_press.jpg]]
   
 - if you can't do the above, then push ups:
 
-  [[https://cdn-0.weighttraining.guide/wp-content/uploads/2017/06/push-up-on-knees-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4]]
+  [[./push_up.webp]]
 
 ** 3. Bent over row or horizontal pull
 - bent over row (barbell):
 
-  [[https://weighttraining.guide/wp-content/uploads/2016/10/Bent-over-barbell-row.png]]
+  [[./bent_over_row.png]]
 - horizontal pull:
 
-  [[https://fitnesslabo.blog/wp-content/uploads/2024/04/img_1116-1-1024x576.jpg]]
+  [[./horizontal_pull.jpg]]
   
 ** 4. Shoulder press
 - with barbell:
 
-  [[https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/barbell-military-press-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4]]
+  [[./overhead_press.jpeg]]
 - with dumbells:
 
-  [[https://s3assets.skimble.com/assets/2636572/image_full.jpg]]
+  [[./shoulder_press.jpg]]
