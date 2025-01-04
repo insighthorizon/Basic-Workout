@@ -12,7 +12,7 @@ It is 4 exercises in total for lower body (1. up to 4.). Number 1. has two choic
 - if they have squat rack with safety bars, do squats:
   [[./squat.webp]]
 - otherwise leg press, don't streighten the legs, keep the muscles under load
-  [./leg_press.jpg]]
+  [./leg_press.jpeg]]
 
 ** 2. Leg curl
 [[./leg_curl.png]]
@@ -23,7 +23,7 @@ It is 4 exercises in total for lower body (1. up to 4.). Number 1. has two choic
 
 ** 4. Leg raise (we did that)
 - can be done on the ground
-  [[./leg_raise.jpg]]
+  [[./leg_raise.jpeg]]
 
 
 * Upper body (Upper back, chest, shoulders arms)
@@ -37,7 +37,7 @@ It is 4 exercises for upper body in total (1. to 4.). For example 2. has three c
   [[./chest_press1.png]]
   or:
 
-  [[./chest_press2.png]]
+  [[./chest_press2.webp]]
 - i would do bench press (barbell) only if there is bench with safety bars set into the right height so that you can lie the weight down on it:
 
   [[./bench_press.jpg]]
@@ -52,12 +52,12 @@ It is 4 exercises for upper body in total (1. to 4.). For example 2. has three c
   [[./bent_over_row.png]]
 - horizontal pull:
 
-  [[./horizontal_pull.jpg]]
+  [[./horizontal_pull.jpeg]]
   
 ** 4. Shoulder press
 - with barbell:
 
-  [[./overhead_press.jpeg]]
+  [[./overhead_press.webp]]
 - with dumbells:
 
-  [[./shoulder_press.jpg]]
+  [[./shoulder_press.jpeg]]
