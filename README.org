@@ -10,7 +10,7 @@
 It is 4 exercises in total for lower body (1. up to 4.). Number 1. has two choices. Do only one of them.
 ** 1. Squat (barbell) or Leg press (machine)
 - if they have squat rack with safety bars, do squats:
-  [[./squat.webp]]
+  [[./squat.jpeg]]
 - otherwise leg press, don't streighten the legs, keep the muscles under load
   [./leg_press.jpeg]]
 
@@ -37,14 +37,14 @@ It is 4 exercises for upper body in total (1. to 4.). For example 2. has three c
   [[./chest_press1.png]]
   or:
 
-  [[./chest_press2.webp]]
+  [[./chest_press2.jpeg]]
 - i would do bench press (barbell) only if there is bench with safety bars set into the right height so that you can lie the weight down on it:
 
   [[./bench_press.jpg]]
   
 - if you can't do the above, then push ups:
 
-  [[./push_up.webp]]
+  [[./push_up.jpeg]]
 
 ** 3. Bent over row or horizontal pull
 - bent over row (barbell):
@@ -57,7 +57,7 @@ It is 4 exercises for upper body in total (1. to 4.). For example 2. has three c
 ** 4. Shoulder press
 - with barbell:
 
-  [[./overhead_press.webp]]
+  [[./overhead_press.jpeg]]
 - with dumbells:
 
   [[./shoulder_press.jpeg]]
