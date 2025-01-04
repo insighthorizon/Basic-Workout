@@ -17,6 +17,9 @@ It is four exercises for lower body. I numbered the exercises. Number 1. has two
 ** 2. Leg curl
 [[./leg_curl.png]]
 
+or:
+[[./leg_curl_seated.jpeg]]
+
 ** 3. Leg extension
 - here it is fine to streighten the legs completely, no loss of tension happens
   [[./leg_extension.png]]
