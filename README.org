@@ -7,7 +7,7 @@
 /You should breathe continuously throughout the exercise, not holding breath and NOT trying to synchronize the breathing with the movement (repetitions)./
 
 * Lower body (Legs, booty, lower back and abs)
-It is 4 exercises in total for lower body (1. up to 4.). Number 1. has two choices. Do only one of them.
+It is four exercises for lower body. I numbered the exercises. Number 1. has two choices - Pick and do only one!
 ** 1. Squat (barbell) or Leg press (machine)
 - if they have squat rack with safety bars, do squats:
   [[./squat.jpeg]]
@@ -27,7 +27,7 @@ It is 4 exercises in total for lower body (1. up to 4.). Number 1. has two choic
 
 
 * Upper body (Upper back, chest, shoulders arms)
-It is 4 exercises for upper body in total (1. to 4.). For example 2. has three choices and you should pick only one.
+It is four exercises for upper body. I numbered the exercises. Some numbers include multiple choices. For example 2. has three choices. Always pick only one choice.
 ** 1. Pull downs
 [[./lat_pulldown.png]]
 
