@@ -1,18 +1,20 @@
 /Doing the exercise slow will achieve muscle failure (exhaustion) quicker. So nowhere to hurry./
 
-/You can start each exercise with a very light weight as a warm up, do 10 to 20 repetitions and then try to increase the weight (resistance). No need to rest after you increase it./
+/You can start each exercise with a very light weight as a warm up, do 10 to 20 repetitions and then try to increase the weight (resistance). No need to take rest before you continue./
 
-/Pauses between exercises should be just as long to not puke./
+/Pauses between exercises should be just as long to not puke. You should be a little bit out of breath from start to finish of the entire workout./
 
 /You should breathe continuously throughout the exercise, not holding breath and NOT trying to synchronize the breathing with the movement (repetitions)./
 
 * Lower body (Legs, booty, lower back and abs)
 It is four exercises for lower body. I numbered the exercises. Number 1. has two choices - Pick and do only one!
 ** 1. Squat (barbell) or Leg press (machine)
-- if they have squat rack with safety bars, do squats:
+- If they have squat rack with safety bars, do squats:
   [[./squat.jpeg]]
-- otherwise leg press, don't streighten the legs, keep the muscles under load
+- Otherwise leg press:
   [[./leg_press.jpeg]]
+- After you're done with either the squat or leg press (did it to failure), immediately do squats without any weight (only your body, no bar even). Do them also very slowly, stay low and do that until you can (to failure). Do that immediately, you can put the plates, you just used for squat/leg press, back later. You should get strong burn in your legs and butt.
+ 
 
 ** 2. Leg curl
 [[./leg_curl.png]]
@@ -20,14 +22,21 @@ It is four exercises for lower body. I numbered the exercises. Number 1. has two
 or:
 [[./leg_curl_seated.jpeg]]
 
-** 3. Leg extension
-- here it is fine to streighten the legs completely, no loss of tension happens
-  [[./leg_extension.png]]
-
-** 4. Leg raise (we did that)
+** 3. Leg raise (we did that)
 - can be done on the ground
   [[./leg_raise.jpeg]]
 
+** 4. Heel raise (Calf)
+- The standing variant:
+  [[./calf-raise-standing.png]]
+
+- Or the seated variant:
+  [[./calf-raise-sitting.jpg]]  
+
+** 5. Toe raise (Tibialis Anterior)
+- This is done with your back leaning against a wall or something else that can support you.
+  [[./Wall-Toe-Raises.jpeg]]
+- It can be done also just on one leg when it becomes easy.
 
 * Upper body (Upper back, chest, shoulders arms)
 It is four exercises for upper body. I numbered the exercises. Some numbers include multiple choices. For example 2. has three choices. Always pick only one choice.
